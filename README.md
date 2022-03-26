@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilvolkov1, Ilya Volkov
 - 👀 I’m interested in becoming a experienced IT specialist
 - 🌱 I’m currently learning QA and all the stuff close to it
-- 💞️ I’m looking to collaborate on any people from IT :)
+- 💞️ I’m looking to collaborate with any people from IT :)
 - 📫 How to reach me: email me on ilvolkov1.gmail.com
 
 <!---

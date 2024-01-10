@@ -13,8 +13,10 @@ I'm a passionate IT enthusiast and aspiring automation testing professional. Cur
 
 ## 💼 Experience
 
-- Currently working as a manual QA Engineer with automation skills.
-- Seeking opportunities to collaborate on exciting projects and gain more hands-on experience.
+- Currently working as a manual QA Engineer with a strong emphasis on manual and automation testing.
+- Successfully implemented automation skills in optimizing testing processes.
+- Collaborated with cross-functional teams to ensure high-quality software delivery.
+- Seeking opportunities to contribute to exciting projects and further enhance my skills in automation testing.
 
 ## 💞 Collaboration
 
@@ -28,6 +30,7 @@ I'm open to collaborations and discussions related to testing, automation, and I
 Let's connect, learn, and build together! 🚀
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvolkov1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilvolkov1&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ilvolkov1/ilvolkov1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
